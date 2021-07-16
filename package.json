@@ -1,0 +1,22 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AoEiuV020/NodeDemo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "AoEiuV020",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AoEiuV020/NodeDemo/issues"
+  },
+  "homepage": "https://github.com/AoEiuV020/NodeDemo#readme"
+}
